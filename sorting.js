@@ -160,3 +160,10 @@ function swap(array,i,j){
   array[i] = array[j];
   array[j] = tmp;
 }
+/* First I would the book into an array then 
+get the first letter of the book title. Once I 
+have that, I would loop through to see if
+I have any duplicates, and if there is
+any duplicates, I would shift to the right
+and going into a recusive loop again.
+I think I would use the dSort*/
